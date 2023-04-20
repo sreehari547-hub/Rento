@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #4c57f1;
   color: #fff;
   padding: 20px;
 }
@@ -31,11 +31,10 @@ nav a {
 }
 
 .hero {
-  background-image: url(https://placeimg.com/640/480/architecture);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
   display: flex;
   flex-direction: column;
-  justify-content:
+  justify-content:  
