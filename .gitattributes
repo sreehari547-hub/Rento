@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*.txt text
+*.jpg binary
+*.txt eol=LF
+*.txt charset=utf-8
+*.java diff=my-java-diff-command
